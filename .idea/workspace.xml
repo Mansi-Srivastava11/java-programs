@@ -1,60 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0e8c0b87-e53d-492e-8bf9-0188ed3db99d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-programs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/addTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrAddTwoMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrAvg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrFloatSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrIntIsInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrIsSortedOrNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrMaxElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrMinElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/checkInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/convertKmMiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/doubleTripleSpaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/escapeChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/goodDay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lowercase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methodAvgArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methodFib.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methodMultipTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methodPatternOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methodPatternTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methodRepeatNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methodSumNaturalNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/percentage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/printReverseTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/printTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/printtriStar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/repeatFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/repeatOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replaceSpUn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replaceString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rockPaperScissor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sumOnlyEvenNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threeSubPercen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oopsGetSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oopsGetSet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2zUTPX4s5tyQM6XTnPGJc4bXkx1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -66,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.oopsGetSet.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -82,9 +54,28 @@
       <option name="presentableId" value="Default" />
       <updated>1751784630342</updated>
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1751785093532</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1751785093532</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1751785933724</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1751785933724</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
 </project>
